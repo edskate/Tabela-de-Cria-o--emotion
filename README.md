@@ -15,7 +15,7 @@
 | [top](#smileys--emotion) | :rofl: | `:rofl:` | :joy: | `:joy:` | [top](#table-of-contents) 
 | [top](#smileys--emotion) | :slightly_smiling_face: | `:slightly_smiling_face:` | :upside_down_face: | `:upside_down_face:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :innocent: | `:innocent:` | | | [top](#table-of-contents)
-| [top](#smileys--emotion) | :kissing_closet_eyes: | `:kissing_closet_eyes:` | :kissing_closet_eyes: | `kissing_closet_eyes:` | [top](#table-of-contents)
+
 
 #### Face Sleepy
 
