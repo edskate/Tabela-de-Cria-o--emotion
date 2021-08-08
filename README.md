@@ -24,4 +24,4 @@
 | [top](#smileys--emotion) | :relieved: | `:relieved:` | :pensive: | `:pensive:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :sleepy: | `:sleepy:` | :droolling_face: | `:droolling_face:` | [top](#table-of-contents)
 | [top](#smileys--emotion) | :sleeping: | `:sleeping:` | | | [top](#table-of-contents)
-
+| [top](#smileys--emotion) | :alarm_clock: | `:alarm_clock:` | :alarm_clock: | `:alarm_clock:` | [top](#table-of-contentes)
